@@ -25,12 +25,12 @@ Recent transactions
 
 Technologies
 
-PHP 8.2;
-MySQL / MariaDB;
-HTML5;
-CSS3;
-Apache;
-XAMPP;
+PHP 8.2
+MySQL / MariaDB
+HTML5
+CSS3
+Apache
+XAMPP
 
 Project Structure
 
