@@ -9,35 +9,35 @@ Users can create an account, log in, add and edit transactions, and view an over
 
 Features
 
-User registration and login
-Session-based authentication
-Add income and expenses
-Edit transactions
-View transaction history
-Personal statistics
-Total income
-Total expenses
-Current balance
-Number of transactions
-Top category
-Biggest expense
+User registration and login;
+Session-based authentication;
+Add income and expenses;
+Edit transactions;
+View transaction history;
+Personal statistics;
+Total income;
+Total expenses;
+Current balance;
+Number of transactions;
+Top category;
+Biggest expense;
 Recent transactions
 
 Technologies
 
-PHP 8.2
-MySQL / MariaDB
-HTML5
-CSS3
-Apache
-XAMPP
+PHP 8.2;
+MySQL / MariaDB;
+HTML5;
+CSS3;
+Apache;
+XAMPP;
 
 Project Structure
 
 The project follows the MVC (Model-View-Controller) architecture.
-Models – database queries and data handling
-Views – user interface
-Controllers – application logic
+Models – database queries and data handling;
+Views – user interface;
+Controllers – application logic;
 
 Database
 
