@@ -37,7 +37,7 @@ Project Structure
 The project follows the MVC (Model-View-Controller) architecture.
 Models – database queries and data handling;
 Views – user interface;
-Controllers – application logic;
+Controllers – application logic
 
 Database
 
@@ -63,12 +63,12 @@ User data is separated using session-based authentication.
 
 Future Improvements
 
-Search and filtering
-Monthly reports
-Charts and data visualization
+Search and filtering;
+Monthly reports;
+Charts and data visualization;
 Responsive design
 
 Author
 
-Nadja Stojanovic
+Nadja Stojanovic |
 GitHub: Nadja006
